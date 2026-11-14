@@ -293,3 +293,48 @@ Kitap kapakları: Aydili Sanat Yayınları. Fotoğraf: Şener Aksu'nun izniyle.
 - ODTÜ GV Kocaeli, "Oya-Şener Aksu ile Edebiyat-Tarih Söyleşisi": https://www.odtugvkocaeli.k12.tr/oya-sener-aksu-ile-edebiyat-tarih-soylesisi/
 
 **Araştırma sınırı:** Bu oturumda sitelerin içine doğrudan girilemedi (ağ ayarı); bilgiler arama motoru özetlerinden derlendi. Yayından önce özellikle TEİS ve Fihrist sayfalarını kendin bir kez aç ve ⚠️ işaretli satırları kontrol et.
+
+---
+
+## 13. KİTAP LİSTESİ (güncel, 14 Kasım 2026)
+
+Doğrulanabilen 25 kitap. Kaynaklar: TEİS, Fihrist Kitap, yayınevi/kitapçı kayıtları. **Kesin toplam sayıyı Şener Aksu'ya sor.**
+
+| Tür | Kitap | Yıl |
+|---|---|---|
+| Şiir | Güneşin Denize Bıraktığı İzden ya da Öykünsüz | 1996 |
+| Şiir | Zamanı Yarım Kalan | 1997 |
+| Şiir | Hayatın Rengi Saf Hüzün (Ruşen Hakkı Şiir Ödülü) | 2003 |
+| Şiir | Kül Nehri (Seçilmiş Şiirler) | 2007 |
+| Şiir / şiir estetiği | Şiirin Doğası | 2015 |
+| Şiir | Eksik Gün Hesabı (2018 Muammer Hacıoğlu ödülü) | 2017 |
+| Şiir | Hiçlik Geçidi El Yazmaları | 2019 |
+| Şiir | 7 Kutsal Ayçiçeği | 2022 |
+| Roman | Dağ Martısı | 2009 |
+| Roman | Rastlantı | 2017 |
+| Roman | Rastlantı: Damkalar | 2018 |
+| Roman | Rastlantı: Kuzguncular | 2019 |
+| Roman | Yüzümü Hatırlayan Var mı? | ? |
+| Roman | Annemin Romanı | 2026 |
+| Tiyatro | Robot Arkadaşım (çocuk oyunu) | 2001 |
+| Tiyatro | İlk Yardım Son Yardım (gençlik oyunu) | 2001 |
+| Tiyatro | Kağıtçı | 2001 |
+| Tiyatro | Ulusunu Tutsaklıktan Kurtaran Mustafa Kemal Destanını Beyan Eder | ? |
+| Öykü | Dervişin Kehanetleri | 2012 |
+| Tarih | Tarih ve Devrim | 1998 |
+| Tarih felsefesi | Ölüler Hakkında Dedikodu (Olasılıkçı Tarih Felsefesi) | ? |
+| Biyografi | Olasılıkçı Siyaset Açısından Yıldırım Demir | 2016 |
+| Biyografi | Bir Kültür İnsanının Öyküsü: Kekil Şimşek | ? |
+| Söyleşi | Sormasam Söylemezdi (Afşar Timuçin'le) | 2025 |
+| Anı-deneme | Çöl Günlükleri | 2026 |
+
+Listede olmayanlar: "Ki'ye Dönüş" (yazarı doğrulanamadı), "Yahya Kaptan" (fotoğrafta görülüyor, yazarı doğrulanamadı).
+
+### Videodaki 7 saniyelik kitap rafı bölümü için isteğe bağlı seslendirme cümlesi
+Google AI Studio'da aynı sesle üretilip gönderilirse rafın üzerine yerleştirilir:
+
+> Bugüne kadar en az yirmi beş kitap yazdı. Şiir, roman, tiyatro, öykü ve deneme.
+
+## 14. GÖRSEL KAYNAKLARI
+- Pusula, açık kitap, deri defter, dolma kalem, kara tahta, kartpostallar ve kitap rafı videoda kodla çizilmiş illüstrasyonlardır (telif yok).
+- Defterdeki şiir: Karacaoğlan, "İncecikten bir kar yağar" dörtlüğü (anonim/halk edebiyatı, kamu malı). Mustafa amcanın bu şiiri okuduğu iddia edilmiyor; halk şiirine örnek olarak kullanıldı.
