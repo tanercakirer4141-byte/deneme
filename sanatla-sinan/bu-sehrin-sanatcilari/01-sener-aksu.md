@@ -80,6 +80,8 @@ Kaynaklar listeyi tam vermiyor. Bu liste **eksik** olabilir; tam liste için ken
 
 **Tarih / Deneme / Söyleşi / Biyografi / Gezi**
 - 1998 Tarih ve Devrim
+- *Devrim: Yaşamalanı-Otorite İlişkisi Açısından* (Umuttepe Yayınları, 2. baskı; kapaktan). ⚠️ "Tarih ve Devrim" ile aynı kitap mı, yeni bir baskı mı, teyit et.
+- *Ölüler Hakkında Dedikodu* ve *Yahya Kaptan* (elinde tuttuğu fotoğraftan görülüyor). ⚠️ Yazarı ve türü kapakta okunamıyor; kendisinin mi, editörlüğünü yaptığı mı, sor.
 - Bir Kültür İnsanının Öyküsü: Kekil Şimşek (⚠️ bir kaynak 2017, bir haber 2026 Bursa diyor; yeni baskı olabilir)
 - 2025 Sormasam Söylemezdi (Afşar Timuçin ile söyleşi, Aydili Sanat)
 - **Nisan 2026 Çöl Günlükleri** (anı-deneme; Fas yolculuğu)
@@ -148,6 +150,25 @@ Sadece Şener Aksu köyde yaşadığını/yazdığını kendisi doğrularsa kull
 | 6 | Aydili Sanat dergi kapakları / atölye | Kamera derinlik katmanları arasında ilerler | **torn-paper rip** | Kâğıt yırtılma (alçak frekanslı) |
 | 7 | İmza günü fotoğrafı, sonra iki kapak bölünmüş ekran (üst: Annemin Romanı, alt: Çöl Günlükleri) | "Çöl Günlükleri" kelimesinde iki yarı birleşir, çöl dokusu belirir | Hard cut (hareket ortasında) | Glitch değil; uzun alçak whoosh |
 | 8 | Sen, kameraya | Hafif geri çekilme, sonda 1 sn sabit duruş yok, çok yavaş drift | — | Müzik açılır, fade-out 2.5 sn |
+
+### 7.1 Gelen görseller ve hangi sahneye girdikleri
+
+Storyboard: `01-sener-aksu-storyboard.jpg` · Dosyalar: `01-sener-aksu-gorseller/`
+
+| Sahne | Görsel dosyası | Nasıl kullanılacak |
+|---|---|---|
+| 2 | `portre-genclik-siyah-beyaz.webp` → `portre-yayla-yagliboya-efekt.jpg` | **Dün/bugün geçişi.** Siyah-beyaz gençlik portresi, gülümsemesinden renkli yayla portresine **ink-bleed** ile dönüşür. Serinin en güçlü görsel anı. |
+| 3 | `kapak-devrim.jpg` | "Tarih okudu" cümlesinde. Kapaktaki kalabalık bulanık, kamera içine doğru yavaşça ilerlesin. |
+| 4 | **EKSİK:** Hayatın Rengi Saf Hüzün kapağı | Bulamazsan bu sahnede `portre-yayla` üzerine sade yazı: `RUŞEN HAKKI ŞİİR ÖDÜLÜ · 2003` |
+| 5 | `kapak-yuzumu-hatirlayan-var-mi.jpg`, `kapak-rastlanti.jpg`, `kapak-devrim.jpg`, `kapak-sormasam-soylemezdi.jpg` | Paper-collage: kapaklar sırayla masaya düşer gibi. "Şiir, roman, tiyatro, tarih" kelimelerinin her birinde bir kapak. |
+| 6 | `portre-kitaplarla.jpg` | "Aydili Sanat'ı kurdu" cümlesinde. Yüzüne yakın başla, elindeki kitaplara doğru in (kamera aşağı kayar). |
+| 7 | `imza-gunu.jpg` → `kapak-annemin-romani.jpg` + **EKSİK:** Çöl Günlükleri kapağı | İmza fotoğrafında kalemin ucuna zoom, kesme hareket ortasında. Sonra bölünmüş ekran: üstte Annemin Romanı, altta Çöl Günlükleri. |
+
+**Görsellerle ilgili dikkat edilecekler:**
+- `portre-yayla-yagliboya-efekt.jpg` gerçek bir tablo değil, fotoğrafa uygulanmış yağlıboya filtresi gibi duruyor. Videoda "tablosu" ya da "resmi" diye anma. Nerede çekildiğini de bilmiyoruz; "köyünde" deme, kendisine sor.
+- `kapak-annemin-romani.jpg` üzerindeki kadın ve çocuk fotoğrafı yazarın annesi ve kendisi **olabilir**, ama doğrulanmadı. Röportajda sor (soru 15'in yanına ekle: "Kapaktaki fotoğraf sizin aileniz mi?"). Doğrulanırsa videonun en duygusal karesi olur.
+- Fotoğrafların hepsi için Şener Aksu'dan kullanım izni al; gençlik portresi ve imza günü fotoğrafının **fotoğrafçısını** sor ve açıklamada kredi ver.
+- Görseller düşük çözünürlüklü (~460–680 px). 1080x1920'de bulanık kalmaması için: kapakları kenarlarıyla birlikte ekranın ortasında göster (tam ekran yayma), arkaya aynı görselin bulanık büyütülmüş hâlini koy. Mümkünse kitapları satın alıp kapakları telefonla kendin çek.
 
 **Kurgu kurallarına uyum (senin kurgu sistemin):**
 - Bu videoda yeni kullanılacak 4+ bileşen: ink-bleed-reveal, parallax-unzoom, paper-collage-reveal, torn-paper-rip, light-sweep-pass. Kullanmadan önce `~/.claude/instagram/kurgu-log.md` dosyasında daha önce kullanılmadıklarını kontrol et ve sonra buraya yaz.
