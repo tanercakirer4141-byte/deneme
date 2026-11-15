@@ -39,3 +39,6 @@ Sanatla Sinan'da artık onların da hikâyelerini anlatacağız."
 
 ## Bölüm arşivi
 - #1 Şener Aksu: `bu-sehrin-sanatcilari/01-sener-aksu.md`
+
+## Kalıcı kural
+- Sinço çekim yapmaz. Görseller sanatçıdan/atölyeden DM ile istenir; eksikler illüstrasyonla tamamlanır. Sinço’nun işi: DM, görselleri Drive’a yükleme, seslendirme, paylaşım.
